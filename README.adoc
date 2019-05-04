@@ -1,0 +1,8 @@
+= K3s for Free
+
+== GCP
+
+1. Create a new project
+1. Go to Service Account Page
+1. Create new Key & download
+1. Set key in `gcp/main.tf` credentials
